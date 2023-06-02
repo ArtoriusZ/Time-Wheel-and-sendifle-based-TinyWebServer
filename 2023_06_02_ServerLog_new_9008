@@ -1,0 +1,156 @@
+2023-06-02 21:31:29.279930 [info]: timer tick
+2023-06-02 21:31:34.280046 [info]: timer tick
+2023-06-02 21:31:37.690658 [info]: deal with the client(10.250.48.157)
+2023-06-02 21:31:37.690721 [info]: adjust timer once
+2023-06-02 21:31:37.690860 [info]: GET /6 HTTP/1.1
+2023-06-02 21:31:37.690942 [info]: Host: 10.249.43.11:9008
+2023-06-02 21:31:37.690964 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:37.690981 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:37.690997 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-06-02 21:31:37.691012 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-06-02 21:31:37.691033 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:37.691048 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:37.691064 [info]: Accept-Encoding: gzip, deflate
+2023-06-02 21:31:37.691079 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-06-02 21:31:37.691094 [info]: Connection: keep-alive
+2023-06-02 21:31:37.691109 [info]: Upgrade-Insecure-Requests: 1
+2023-06-02 21:31:37.691124 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-06-02 21:31:37.691139 [info]: 
+2023-06-02 21:31:37.691181 [info]: request:HTTP/1.1 200 OK
+
+2023-06-02 21:31:37.691203 [info]: request:HTTP/1.1 200 OK
+Content-Length:390
+
+2023-06-02 21:31:37.691221 [info]: request:HTTP/1.1 200 OK
+Content-Length:390
+Connection:keep-alive
+
+2023-06-02 21:31:37.691236 [info]: request:HTTP/1.1 200 OK
+Content-Length:390
+Connection:keep-alive
+
+
+2023-06-02 21:31:37.691255 [info]: process time cost: 397
+2023-06-02 21:31:37.691356 [info]: send file: /home/dell/menglun/WebServer-master/root/video.html
+2023-06-02 21:31:37.691489 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.691520 [info]: I/O time cost: 130
+2023-06-02 21:31:37.691542 [info]: adjust timer once
+2023-06-02 21:31:37.750762 [info]: deal with the client(10.250.48.157)
+2023-06-02 21:31:37.750832 [info]: adjust timer once
+2023-06-02 21:31:37.750960 [info]: GET /Solar_System.mp4 HTTP/1.1
+2023-06-02 21:31:37.751027 [info]: Host: 10.249.43.11:9008
+2023-06-02 21:31:37.751049 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:37.751065 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:37.751082 [info]: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2023-06-02 21:31:37.751097 [info]: oop!unknow header: Accept: video/webm,video/ogg,video/*;q=0.9,application/ogg;q=0.7,audio/*;q=0.6,*/*;q=0.5
+2023-06-02 21:31:37.751112 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:37.751134 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:37.751148 [info]: Range: bytes=0-
+2023-06-02 21:31:37.751164 [info]: oop!unknow header: Range: bytes=0-
+2023-06-02 21:31:37.751179 [info]: Connection: keep-alive
+2023-06-02 21:31:37.751195 [info]: Referer: http://10.249.43.11:9008/6
+2023-06-02 21:31:37.751209 [info]: oop!unknow header: Referer: http://10.249.43.11:9008/6
+2023-06-02 21:31:37.751224 [info]: Accept-Encoding: identity
+2023-06-02 21:31:37.751239 [info]: oop!unknow header: Accept-Encoding: identity
+2023-06-02 21:31:37.751253 [info]: 
+2023-06-02 21:31:37.751293 [info]: request:HTTP/1.1 200 OK
+
+2023-06-02 21:31:37.751320 [info]: request:HTTP/1.1 200 OK
+Content-Length:69914105
+
+2023-06-02 21:31:37.751336 [info]: request:HTTP/1.1 200 OK
+Content-Length:69914105
+Connection:keep-alive
+
+2023-06-02 21:31:37.751351 [info]: request:HTTP/1.1 200 OK
+Content-Length:69914105
+Connection:keep-alive
+
+
+2023-06-02 21:31:37.751370 [info]: process time cost: 412
+2023-06-02 21:31:37.751465 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.751668 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.751698 [info]: I/O time cost: 200
+2023-06-02 21:31:37.751708 [info]: adjust timer once
+2023-06-02 21:31:37.758283 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.758521 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.758547 [info]: I/O time cost: 237
+2023-06-02 21:31:37.758564 [info]: adjust timer once
+2023-06-02 21:31:37.761744 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.761936 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.761960 [info]: I/O time cost: 189
+2023-06-02 21:31:37.761977 [info]: adjust timer once
+2023-06-02 21:31:37.765053 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.765313 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.765339 [info]: I/O time cost: 257
+2023-06-02 21:31:37.765356 [info]: adjust timer once
+2023-06-02 21:31:37.775499 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.775973 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.776004 [info]: I/O time cost: 472
+2023-06-02 21:31:37.776012 [info]: adjust timer once
+2023-06-02 21:31:37.802007 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.802447 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.802479 [info]: I/O time cost: 437
+2023-06-02 21:31:37.802498 [info]: adjust timer once
+2023-06-02 21:31:37.832649 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.833112 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.833142 [info]: I/O time cost: 460
+2023-06-02 21:31:37.833153 [info]: adjust timer once
+2023-06-02 21:31:37.867727 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.868249 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.868286 [info]: I/O time cost: 519
+2023-06-02 21:31:37.868295 [info]: adjust timer once
+2023-06-02 21:31:37.915381 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.915890 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.915925 [info]: I/O time cost: 506
+2023-06-02 21:31:37.915933 [info]: adjust timer once
+2023-06-02 21:31:37.955727 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:37.956305 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:37.956340 [info]: I/O time cost: 575
+2023-06-02 21:31:37.956348 [info]: adjust timer once
+2023-06-02 21:31:38.013780 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:38.014409 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:38.014438 [info]: I/O time cost: 627
+2023-06-02 21:31:38.014446 [info]: adjust timer once
+2023-06-02 21:31:38.081966 [info]: send file: /home/dell/menglun/WebServer-master/root/Solar_System.mp4
+2023-06-02 21:31:38.082674 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:38.082704 [info]: I/O time cost: 705
+2023-06-02 21:31:38.082713 [info]: adjust timer once
+2023-06-02 21:31:39.280161 [info]: timer tick
+2023-06-02 21:31:42.056160 [info]: close fd 16
+2023-06-02 21:31:42.065607 [info]: deal with the client(10.250.48.157)
+2023-06-02 21:31:42.065671 [info]: adjust timer once
+2023-06-02 21:31:42.065740 [info]: GET / HTTP/1.1
+2023-06-02 21:31:42.065808 [info]: Host: 10.249.43.11:9008
+2023-06-02 21:31:42.065831 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:42.065850 [info]: oop!unknow header: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+2023-06-02 21:31:42.065867 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-06-02 21:31:42.065900 [info]: oop!unknow header: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+2023-06-02 21:31:42.065961 [info]: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:42.065978 [info]: oop!unknow header: Accept-Language: zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2
+2023-06-02 21:31:42.065993 [info]: Accept-Encoding: gzip, deflate
+2023-06-02 21:31:42.066008 [info]: oop!unknow header: Accept-Encoding: gzip, deflate
+2023-06-02 21:31:42.066024 [info]: Connection: keep-alive
+2023-06-02 21:31:42.066039 [info]: Upgrade-Insecure-Requests: 1
+2023-06-02 21:31:42.066055 [info]: oop!unknow header: Upgrade-Insecure-Requests: 1
+2023-06-02 21:31:42.066070 [info]: 
+2023-06-02 21:31:42.066113 [info]: request:HTTP/1.1 200 OK
+
+2023-06-02 21:31:42.066139 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+
+2023-06-02 21:31:42.066156 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+2023-06-02 21:31:42.066172 [info]: request:HTTP/1.1 200 OK
+Content-Length:586
+Connection:keep-alive
+
+
+2023-06-02 21:31:42.066191 [info]: process time cost: 452
+2023-06-02 21:31:42.066204 [info]: send file: /home/dell/menglun/WebServer-master/root/judge.html
+2023-06-02 21:31:42.066287 [info]: send data to the client(10.250.48.157)
+2023-06-02 21:31:42.066312 [info]: I/O time cost: 80
+2023-06-02 21:31:42.066323 [info]: adjust timer once
+2023-06-02 21:31:44.280219 [info]: timer tick
